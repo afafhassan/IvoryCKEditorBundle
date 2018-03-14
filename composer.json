@@ -1,5 +1,5 @@
 {
-    "name": "fsi/ckeditor-bundle",
+    "name": "egeloen/ckeditor-bundle",
     "type": "symfony-bundle",
     "description": "Provides a CKEditor integration for your Symfony2 Project.",
     "keywords": [ "ckeditor" ],
